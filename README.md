@@ -3,3 +3,11 @@
 
 
 A simple program to create a virtual assiatant to play videos and songs in youtube,to tell a joke and date/time,to search something or someone in wikipedia.
+
+The packages ued are:
+       speech_recognition 
+       pyttsx3
+       pywhatkit
+       datetime
+       wikipedia
+       pyjokes
