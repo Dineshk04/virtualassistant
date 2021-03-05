@@ -20,6 +20,5 @@ KEYWORDS TO BE USED:
 
 3) joke  - to get a joke from jarvis
 
-4)time - to get the current time
+4) time - to get the current time
 
-5) 
