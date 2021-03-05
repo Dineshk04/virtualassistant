@@ -11,3 +11,15 @@ The packages ued are:
  -      datetime
  -      wikipedia
  -      pyjokes
+
+KEYWORDS TO BE USED:
+
+1) search - search somthing in wikipedia.
+
+2) play - to play a video or song in youtube.
+
+3) joke  - to get a joke from jarvis
+
+4)time - to get the current time
+
+5) 
